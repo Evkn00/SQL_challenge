@@ -9,3 +9,4 @@ Files:
 - db schema diagram.png - screenshot of schema creation in QuickDBD
 - Schema.sql - table creation schema based on QuickDBD output 
 - Data Analysis.sql - main analysis
+- Data folder of CSVs in case I ever want to review this project. 
