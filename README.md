@@ -6,7 +6,7 @@ Base Schema created in QuickDBD and then edited.
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/on17h1
 
 Files:
-- db schema diagram.png - screenshot of schema creation in QuickDBD
+- db schema diagram.png - screenshot of ERD created in QuickDBD
 - Schema.sql - table creation schema based on QuickDBD output 
 - Data Analysis.sql - main analysis
 - Data folder of CSVs in case I ever want to review this project. 
